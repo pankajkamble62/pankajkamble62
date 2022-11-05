@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Pankaj Kamble</h1>
-<h3 align="center">A person with average coding skilss but having a lot of interest in it. A Web-Dev kinda guy and partial Android Development kinda person. </h3>
+<h3 align="center">A person with average coding skills but having lot of interest in it. A Web-Dev kinda guy and partial Android Development kinda person. </h3>
 
 
 ## 🙋‍♂️ About Me
